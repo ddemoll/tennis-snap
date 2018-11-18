@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74199979495",
+    "firebase_url": "https://ustaplayer-6983a.firebaseio.com",
+    "project_id": "ustaplayer-6983a",
+    "storage_bucket": "ustaplayer-6983a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74199979495:android:6359956e829ffcc8",
+        "android_client_info": {
+          "package_name": "com.ustaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74199979495-b1c69058tg6j4k3tqgepib8rln3ck4p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1pEav_6bRYVy4TX0IPDTcfF5NSv0ufA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
